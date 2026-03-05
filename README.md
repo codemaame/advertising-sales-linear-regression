@@ -23,3 +23,5 @@ This project analyzes the relationship between advertising expenditures across *
 The notebook includes an **Actual vs Predicted Sales plot** to visually assess model performance.
 
 ## Files
+advertising_sales_linear_regression.ipynb — analysis notebook  
+Advertising.csv — dataset
